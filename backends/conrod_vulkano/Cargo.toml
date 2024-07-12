@@ -24,6 +24,6 @@ vulkano-shaders = "0.16"
 conrod_example_shared = { path = "../conrod_example_shared", version = "0.71" }
 conrod_winit = { path = "../conrod_winit", version = "0.71" }
 find_folder = "0.3"
-image = "0.22"
+image = "0.25"
 vulkano-win = "0.16"
 winit = "0.19"
