@@ -23,7 +23,7 @@ gfx_core = { version = "0.9" }
 conrod_example_shared = { path = "../conrod_example_shared", version = "0.71" }
 conrod_winit = { path = "../conrod_winit", version = "0.71" }
 find_folder = "0.3.0"
-image = "0.22"
+image = "0.25"
 petgraph = "0.4"
 ## glutin_gfx.rs example dependencies
 gfx_window_glutin = "0.31"

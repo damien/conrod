@@ -33,7 +33,7 @@ profiler = ["rendy/profiler"]
 conrod_example_shared = { path = "../conrod_example_shared", version = "0.71" }
 conrod_winit = { path = "../conrod_winit", version = "0.71" }
 find_folder = "0.3.0"
-image = "0.22"
+image = "0.25"
 
 [[example]]
 name = "all_winit_rendy"
